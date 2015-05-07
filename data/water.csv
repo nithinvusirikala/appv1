@@ -1,0 +1,397 @@
+"","cpid","water.unit.name","water.unit.type","ownership","unitid","variable","value"
+"17","KACHCHH","pond 1-101","POND",1,1017,"1",1
+"46","KACHCHH","checkdam1-101","CHECK DAM",1,4015,"1",1
+"47","KACHCHH","checkdam2-101","CHECK DAM",1,4016,"1",1
+"66","DEVAS","Pond-1(201)","POND",1,1001,"1",1
+"67","DEVAS","Pond-2(201)","POND",1,1002,"1",1
+"68","DEVAS","Pond-3(201)","POND",1,1003,"1",1
+"69","DEVAS","Pond-4(201)","POND",1,1004,"1",1
+"70","DEVAS","Pond-5(201)","POND",1,1005,"1",1
+"71","DEVAS","Pond-6(201)","POND",1,1006,"1",1
+"72","DEVAS","Pond-7(201)","POND",1,1007,"1",1
+"216","KHANDWA","Check dam                        1  -301   ","TANK",1,2003,"1",1
+"217","KHANDWA","Check dam                        2  -301   ","TANK",1,2004,"1",1
+"218","KHANDWA","Check dam                        3  -301   ","TANK",1,2005,"1",1
+"219","KHANDWA","Check dam                        4  -301   ","TANK",1,2006,"1",1
+"220","KHANDWA","Check dam                        5  -301   ","TANK",1,2007,"1",1
+"243","KHANDWA","  Stream                      1 -301         ","STREAM OR RIVER",1,6001,"1",1
+"244","KHANDWA"," Stream                        2 -301       ","STREAM OR RIVER",1,6002,"1",1
+"245","KHANDWA"," Stream                   3  -301      ","STREAM OR RIVER",1,6003,"1",1
+"246","KHANDWA","  Stream                        4  -301       ","STREAM OR RIVER",1,6004,"1",1
+"247","KHANDWA"," Stream                      5  -301       ","STREAM OR RIVER",1,6005,"1",1
+"248","KHANDWA"," Stream                        6 -301       ","STREAM OR RIVER",1,6006,"1",1
+"249","KHANDWA"," Stream                       7 -301     ","STREAM OR RIVER",1,6007,"1",1
+"324","MAHBUBNAGAR","check dam 1-401","CHECK DAM",1,4001,"1",1
+"325","MAHBUBNAGAR","check dam 2-401","CHECK DAM",1,4002,"1",1
+"326","MAHBUBNAGAR","check dam 3-401","CHECK DAM",1,4003,"1",1
+"327","MAHBUBNAGAR","check dam 4-401","CHECK DAM",1,4004,"1",1
+"328","MAHBUBNAGAR","check dam 5-401","CHECK DAM",1,4005,"1",1
+"329","MAHBUBNAGAR","check dam 6-401","CHECK DAM",1,4006,"1",1
+"330","MAHBUBNAGAR","check dam 7-401","CHECK DAM",1,4007,"1",1
+"331","MAHBUBNAGAR","check dam 8-401","CHECK DAM",1,4008,"1",1
+"379","MALKANGIRI"," pond1-501","POND",1,1001,"1",1
+"457","PALAMU","Ahar 1-601","AHAR",1,3001,"1",1
+"458","PALAMU","Ahar 2-601","AHAR",1,3002,"1",1
+"459","PALAMU","Ahar 3-601","AHAR",1,3003,"1",1
+"460","PALAMU","Ahar 4-601","AHAR",1,3004,"1",1
+"461","PALAMU","Ahar 5-601","AHAR",1,3005,"1",1
+"462","PALAMU","Ahar6-601","AHAR",1,3006,"1",1
+"463","PALAMU","Ahar7-601","AHAR",1,3007,"1",1
+"464","PALAMU","Ahar8-601","AHAR",1,3008,"1",1
+"465","PALAMU","Ahar9-601","AHAR",1,3009,"1",1
+"466","PALAMU","Ahar10-601","AHAR",1,3010,"1",1
+"467","PALAMU","Ahar11-601","AHAR",1,3011,"1",1
+"468","PALAMU","Ahar12-601","AHAR",1,3012,"1",1
+"549","PALAMU","Chackdam 1-601","CHECK DAM",1,4001,"1",1
+"550","PALAMU","Chackdam 2-601","CHECK DAM",1,4002,"1",1
+"554","PALAMU","River1-601","STREAM OR RIVER",1,6001,"1",1
+"560","BANKURA","Pond 1  701","POND",1,1001,"1",1
+"561","BANKURA","Pond 2  701","POND",1,1002,"1",1
+"562","BANKURA","Pond 3  701","POND",1,1003,"1",1
+"563","BANKURA","Pond 4  701","POND",1,1004,"1",1
+"713","KACHCHH","pond 1-102","POND",1,1018,"2",1
+"714","KACHCHH","pond2-102","POND",1,1019,"2",1
+"743","KACHCHH","checkdam1-102","CHECK DAM",1,4017,"2",1
+"768","DEVAS","Pond-1(202)","POND",1,1008,"2",1
+"769","DEVAS","Pond-2(202)","POND",1,1009,"2",1
+"770","DEVAS","Pond-3(202)","POND",1,1010,"2",1
+"771","DEVAS","Pond-4(202)","POND",1,1011,"2",1
+"945","KHANDWA","Stream                  1 -302","STREAM OR RIVER",1,6008,"2",1
+"946","KHANDWA","Stream                                  2 -302","STREAM OR RIVER",1,6009,"2",1
+"1132","PALAMU","Pond 1-602","POND",1,1011,"2",1
+"1133","PALAMU","Pond 2 -602","POND",1,1012,"2",1
+"1134","PALAMU","Pond 3-602","POND",1,1013,"2",1
+"1135","PALAMU","Pond 4-602","POND",1,1014,"2",1
+"1136","PALAMU","Pond 5-602","POND",1,1015,"2",1
+"1164","PALAMU","Ahar 1-602","AHAR",1,3013,"2",1
+"1165","PALAMU","Ahar 2-602","AHAR",1,3014,"2",1
+"1166","PALAMU","Ahar 3-602","AHAR",1,3015,"2",1
+"1174","PALAMU","Ahar 4-602","AHAR",1,3023,"2",1
+"1259","BANKURA","Pond 1  702","POND",1,1005,"2",1
+"1260","BANKURA","Pond 2  702","POND",1,1006,"2",1
+"1387","BANKURA","Canal 1  702","CANAL",1,7001,"2",1
+"6263","KACHCHH","pond 1-110","POND",1,1008,"10",1
+"6264","KACHCHH","pond2-110","POND",1,1009,"10",1
+"6297","KACHCHH","checkdam1-110","CHECK DAM",1,4011,"10",1
+"6450","DEVAS","River-1(210)","STREAM OR RIVER",1,6015,"10",1
+"6521","KHANDWA","Stream                   7 -309  ","STREAM OR RIVER",1,6024,"10",1
+"6544","KHANDWA","Stream                        -310","STREAM OR RIVER",1,6047,"10",1
+"6545","KHANDWA","Stream                         -310","STREAM OR RIVER",1,6048,"10",1
+"6605","MAHBUBNAGAR","check dam 1-410","CHECK DAM",1,4027,"10",1
+"6606","MAHBUBNAGAR","check dam 2-410 ","CHECK DAM",1,4028,"10",1
+"6607","MAHBUBNAGAR","check dam 3-410","CHECK DAM",1,4029,"10",1
+"6608","MAHBUBNAGAR","check dam 4-410","CHECK DAM",1,4030,"10",1
+"6609","MAHBUBNAGAR","check dam5-410","CHECK DAM",1,4031,"10",1
+"6610","MAHBUBNAGAR","check dam 6-410","CHECK DAM",1,4032,"10",1
+"6611","MAHBUBNAGAR","check dam 7-410","CHECK DAM",1,4033,"10",1
+"6612","MAHBUBNAGAR","check dam 8-410","CHECK DAM",1,4034,"10",1
+"6613","MAHBUBNAGAR","check dam 9-410","CHECK DAM",1,4035,"10",1
+"6614","MAHBUBNAGAR","check dam 10-410","CHECK DAM",1,4036,"10",1
+"6646","MALKANGIRI","pond1-510","POND",1,1013,"10",1
+"6647","MALKANGIRI"," pond2-510","POND",1,1014,"10",1
+"6681","MALKANGIRI","canal-510","CANAL",1,7003,"10",1
+"6857","BANKURA","Pond 1  710","POND",1,1043,"10",1
+"6858","BANKURA","Pond 2  710","POND",1,1044,"10",1
+"6859","BANKURA","Pond 3  710","POND",1,1045,"10",1
+"6860","BANKURA","Pond 4  710","POND",1,1046,"10",1
+"6861","BANKURA","Pond 5  710","POND",1,1047,"10",1
+"6862","BANKURA","Pond 6  710","POND",1,1048,"10",1
+"6942","BANKURA","River 1  710","STREAM OR RIVER",1,6003,"10",1
+"6946","BANKURA","River 1 710","STREAM OR RIVER",1,6007,"10",1
+"6960","KACHCHH","Pond -1-111","POND",1,1010,"11",1
+"6961","KACHCHH","pond-2-111","POND",1,1011,"11",1
+"6993","KACHCHH","checkdam1-111","CHECK DAM",1,4012,"11",1
+"6994","KACHCHH","checkdam2-111","CHECK DAM",1,4013,"11",1
+"7011","KACHCHH","river -111","STREAM OR RIVER",1,6003,"11",1
+"7056","DEVAS","Pond-1(211)","POND",1,1041,"11",1
+"7057","DEVAS","Pond-2(211)","POND",1,1042,"11",1
+"7058","DEVAS","Pond-3(211)","POND",1,1043,"11",1
+"7059","DEVAS","Pond-4(211)","POND",1,1044,"11",1
+"7060","DEVAS","Pond-5(211)","POND",1,1045,"11",1
+"7061","DEVAS","Pond-6(211)","POND",1,1046,"11",1
+"7062","DEVAS","Pond-7(211)","POND",1,1047,"11",1
+"7063","DEVAS","Pond-8(211)","POND",1,1048,"11",1
+"7064","DEVAS","Pond-9(211)","POND",1,1049,"11",1
+"7065","DEVAS","Pond-10(211)","POND",1,1050,"11",1
+"7066","DEVAS","Pond-11(211)","POND",1,1051,"11",1
+"7067","DEVAS","Pond-12(211)","POND",1,1052,"11",1
+"7068","DEVAS","Pond-13(211)","POND",1,1053,"11",1
+"7069","DEVAS","Pond-14(211)","POND",1,1054,"11",1
+"7070","DEVAS","Pond-15(211)","POND",1,1055,"11",1
+"7071","DEVAS","Pond-16(211)","POND",1,1056,"11",1
+"7072","DEVAS","Pond-17(211)","POND",1,1057,"11",1
+"7073","DEVAS","Pond-18(211)","POND",1,1058,"11",1
+"7124","DEVAS","Check dam-1(211)","CHECK DAM",1,4036,"11",1
+"7125","DEVAS","Check dam-2(211)","CHECK DAM",1,4037,"11",1
+"7146","DEVAS","River1(211)","STREAM OR RIVER",1,6016,"11",1
+"7147","DEVAS","River2(211)","STREAM OR RIVER",1,6017,"11",1
+"7148","DEVAS","River3(211)","STREAM OR RIVER",1,6018,"11",1
+"7188","KHANDWA","Check Dam                   1-311","TANK",1,2025,"11",1
+"7189","KHANDWA","Check dam                    2-311","TANK",1,2026,"11",1
+"7216","KHANDWA","Stream                   7 -309  ","STREAM OR RIVER",1,6024,"11",1
+"7227","KHANDWA","River                -315","STREAM OR RIVER",1,6035,"11",1
+"7241","KHANDWA","Stream                      1-311","STREAM OR RIVER",1,6049,"11",1
+"7242","KHANDWA","Stream                2-311","STREAM OR RIVER",1,6050,"11",1
+"7310","MAHBUBNAGAR","check dam 1-411","CHECK DAM",1,4037,"11",1
+"7311","MAHBUBNAGAR","check dam 2-411","CHECK DAM",1,4038,"11",1
+"7343","MALKANGIRI","pond1-511","POND",1,1015,"11",1
+"7365","MALKANGIRI","river-511","STREAM OR RIVER",1,6006,"11",1
+"7558","BANKURA","Pond 1  711","POND",1,1049,"11",1
+"7559","BANKURA","Pond 2  711","POND",1,1050,"11",1
+"7560","BANKURA","Pond 3  711","POND",1,1051,"11",1
+"7561","BANKURA","Pond 4  711","POND",1,1052,"11",1
+"7562","BANKURA","Pond 5  711","POND",1,1053,"11",1
+"7563","BANKURA","Pond 6  711","POND",1,1054,"11",1
+"7564","BANKURA","Pond 7  711","POND",1,1055,"11",1
+"7565","BANKURA","Pond 8  711","POND",1,1056,"11",1
+"7566","BANKURA","Pond 9  711","POND",1,1057,"11",1
+"7638","BANKURA","River 1  711","STREAM OR RIVER",1,6004,"11",1
+"7644","BANKURA","Canal 1  711","CANAL",1,7003,"11",1
+"7657","KACHCHH","pond 1-112","POND",1,1012,"12",1
+"7658","KACHCHH","pond2-112","POND",1,1013,"12",1
+"7659","KACHCHH","pond3-112","POND",1,1014,"12",1
+"7690","KACHCHH","checkdam1-112","CHECK DAM",1,4014,"12",1
+"7780","DEVAS","Tank1(212)","TANK",1,2001,"12",1
+"7781","DEVAS","Tank2(212)","TANK",1,2002,"12",1
+"7782","DEVAS","Tank3(212)","TANK",1,2003,"12",1
+"7844","DEVAS","River(212)","STREAM OR RIVER",1,6019,"12",1
+"7885","KHANDWA","Check Dam                      1-312","TANK",1,2027,"12",1
+"7911","KHANDWA","Stream                   7 -309  ","STREAM OR RIVER",1,6024,"12",1
+"7937","KHANDWA","Stream                2-311","STREAM OR RIVER",1,6050,"12",1
+"7938","KHANDWA","Stream                  1-312","STREAM OR RIVER",1,6051,"12",1
+"7939","KHANDWA","Stream                  2-312","STREAM OR RIVER",1,6052,"12",1
+"7940","KHANDWA"," Stream                 3-312","STREAM OR RIVER",1,6053,"12",1
+"7961","MAHBUBNAGAR","tank 3-412","TANK",1,2003,"12",1
+"7962","MAHBUBNAGAR","tank 4-412","TANK",1,2004,"12",1
+"8007","MAHBUBNAGAR","checkdam 1-412","CHECK DAM",1,4039,"12",1
+"8008","MAHBUBNAGAR","check dam 2-412","CHECK DAM",1,4040,"12",1
+"8009","MAHBUBNAGAR","check dam 3-412","CHECK DAM",1,4041,"12",1
+"8010","MAHBUBNAGAR","check dam 4-412","CHECK DAM",1,4042,"12",1
+"8022","MAHBUBNAGAR","stream 1-412","STREAM OR RIVER",1,6001,"12",1
+"8023","MAHBUBNAGAR","stream 2-412","STREAM OR RIVER",1,6002,"12",1
+"8039","MALKANGIRI"," pond1-512","POND",1,1016,"12",1
+"8061","MALKANGIRI","river-512","STREAM OR RIVER",1,6007,"12",1
+"8097","PALAMU","Pond1-612","POND",1,1026,"12",1
+"8098","PALAMU","Pond 2-612","POND",1,1027,"12",1
+"8154","PALAMU","Ahar1 -612","AHAR",1,3053,"12",1
+"8155","PALAMU","Ahar 2-612","AHAR",1,3054,"12",1
+"8156","PALAMU","Ahar 3-612","AHAR",1,3055,"12",1
+"8157","PALAMU","Ahar 4-612","AHAR",1,3056,"12",1
+"8158","PALAMU","Ahar 5-612","AHAR",1,3057,"12",1
+"8159","PALAMU","Ahar 6-612","AHAR",1,3058,"12",1
+"8160","PALAMU","Ahar 7-612","AHAR",1,3059,"12",1
+"8161","PALAMU","Ahar 8-612","AHAR",1,3060,"12",1
+"8162","PALAMU","Ahar 9-612","AHAR",1,3061,"12",1
+"8163","PALAMU","Ahar 10-612","AHAR",1,3062,"12",1
+"8164","PALAMU","Ahar11-612","AHAR",1,3063,"12",1
+"8262","BANKURA","Pond 1  712","POND",1,1058,"12",1
+"8263","BANKURA","Pond 2  712","POND",1,1059,"12",1
+"8264","BANKURA","Pond 3  712","POND",1,1060,"12",1
+"8265","BANKURA","Pond 4  712","POND",1,1061,"12",1
+"8266","BANKURA","Pond 5  712","POND",1,1062,"12",1
+"8267","BANKURA","Pond 6  712","POND",1,1063,"12",1
+"8268","BANKURA","Pond 7  712","POND",1,1064,"12",1
+"8362","KACHCHH","pond 1-113","POND",1,1022,"13",1
+"8363","KACHCHH","pond2-113","POND",1,1023,"13",1
+"8391","KACHCHH","checkdam1-113","CHECK DAM",1,4020,"13",1
+"8464","DEVAS","Pond 1(213)","POND",1,1059,"13",1
+"8516","DEVAS","Check Dam1(213)","CHECK DAM",1,4038,"13",1
+"8517","DEVAS","Check Dam2(213)","CHECK DAM",1,4039,"13",1
+"8540","DEVAS","River1(213)","STREAM OR RIVER",1,6020,"13",1
+"8551","DEVAS","Canal 1(213)","CANAL",1,7006,"13",1
+"8553","KHANDWA","Pond  1 -313","POND",1,1002,"13",1
+"8570","KHANDWA","Check Dam                     1-313          ","TANK",1,2017,"13",1
+"8571","KHANDWA","Check Dam                     2-313","TANK",1,2018,"13",1
+"8572","KHANDWA","Check Dam                    3-313","TANK",1,2019,"13",1
+"8612","KHANDWA","Stream                    1-313","STREAM OR RIVER",1,6030,"13",1
+"8613","KHANDWA"," Stream                      2-313","STREAM OR RIVER",1,6031,"13",1
+"8614","KHANDWA","Stream                                3-313","STREAM OR RIVER",1,6032,"13",1
+"8658","MAHBUBNAGAR","tank 5-413","TANK",1,2005,"13",1
+"8757","MALKANGIRI","river-513","STREAM OR RIVER",1,6008,"13",1
+"8794","PALAMU","Pond 1-613","POND",1,1028,"13",1
+"8860","PALAMU","Ahar 1-613","AHAR",1,3064,"13",1
+"8861","PALAMU","Ahar 1-613","AHAR",1,3065,"13",1
+"8892","PALAMU","Chack dam 1-613","CHECK DAM",1,4004,"13",1
+"8899","PALAMU","River1-613","STREAM OR RIVER",1,6006,"13",1
+"8964","BANKURA","Pond 1  713","POND",1,1065,"13",1
+"8965","BANKURA","Pond 2  713","POND",1,1066,"13",1
+"8966","BANKURA","Pond 3  713","POND",1,1067,"13",1
+"8967","BANKURA","Pond 4  713","POND",1,1068,"13",1
+"8968","BANKURA","Pond 5  713","POND",1,1069,"13",1
+"8969","BANKURA","Pond 5  713","POND",1,1070,"13",1
+"8970","BANKURA","Pond 6  713","POND",1,1071,"13",1
+"8971","BANKURA","Pond 7  713","POND",1,1072,"13",1
+"8972","BANKURA","Pond 8  713","POND",1,1073,"13",1
+"8973","BANKURA","Pond 9  713","POND",1,1074,"13",1
+"8974","BANKURA","Pond 10  713","POND",1,1075,"13",1
+"8975","BANKURA","Pond 11  713","POND",1,1076,"13",1
+"8976","BANKURA","Pond 12  713","POND",1,1077,"13",1
+"9029","BANKURA","River 1  713","STREAM OR RIVER",1,6005,"13",1
+"9098","KACHCHH","River-1- 114","STREAM OR RIVER",1,6005,"14",1
+"9160","DEVAS","Pond 1(214)","POND",1,1060,"14",1
+"9161","DEVAS","Pond 2(214)","POND",1,1061,"14",1
+"9331","KHANDWA"," Stream                    1-314","STREAM OR RIVER",1,6054,"14",1
+"9332","KHANDWA"," Stream                   2-314","STREAM OR RIVER",1,6055,"14",1
+"9333","KHANDWA","Stream                   3-314","STREAM OR RIVER",1,6056,"14",1
+"9347","MAHBUBNAGAR","pond 8-414","POND",1,1008,"14",1
+"9401","MAHBUBNAGAR","check dam 1-414","CHECK DAM",1,4043,"14",1
+"9402","MAHBUBNAGAR","check dam 2-414","CHECK DAM",1,4044,"14",1
+"9403","MAHBUBNAGAR","check dam3-414","CHECK DAM",1,4045,"14",1
+"9557","PALAMU","Ahar 1-614","AHAR",1,3066,"14",1
+"9558","PALAMU","Ahar 2-614","AHAR",1,3067,"14",1
+"9559","PALAMU","Ahar 3-614","AHAR",1,3068,"14",1
+"9560","PALAMU","Ahar 4-614","AHAR",1,3069,"14",1
+"9561","PALAMU","Ahar 5-614","AHAR",1,3070,"14",1
+"9562","PALAMU","Ahar 6-614","AHAR",1,3071,"14",1
+"9563","PALAMU","Ahar 7-614","AHAR",1,3072,"14",1
+"9564","PALAMU","Ahar 8-614","AHAR",1,3073,"14",1
+"9565","PALAMU","Ahar 9-614","AHAR",1,3074,"14",1
+"9566","PALAMU","Ahar 10-614","AHAR",1,3075,"14",1
+"9672","BANKURA","Pond 1  714","POND",1,1078,"14",1
+"9673","BANKURA","Pond 2  714","POND",1,1079,"14",1
+"9674","BANKURA","Pond 3  714","POND",1,1080,"14",1
+"9675","BANKURA","Pond 4  714","POND",1,1081,"14",1
+"9718","BANKURA","Dam1  714","CHECK DAM",1,4003,"14",1
+"9754","KACHCHH","pond 1-115","POND",1,1024,"15",1
+"9782","KACHCHH","checkdam1-115","CHECK DAM",1,4021,"15",1
+"9783","KACHCHH","checkdam2-115","CHECK DAM",1,4022,"15",1
+"9794","KACHCHH","River-1- 115","STREAM OR RIVER",1,6006,"15",1
+"9857","DEVAS","Pond 1(215)","POND",1,1062,"15",1
+"9858","DEVAS","Pond 2(215)","POND",1,1063,"15",1
+"9859","DEVAS","Pond 3(215)","POND",1,1064,"15",1
+"9860","DEVAS","Pond 4(215)","POND",1,1065,"15",1
+"9963","KHANDWA","Check Dam                      1-315","TANK",1,2020,"15",1
+"10005","KHANDWA","Stream                                 1-315","STREAM OR RIVER",1,6033,"15",1
+"10006","KHANDWA","Stream                       2-315","STREAM OR RIVER",1,6034,"15",1
+"10007","KHANDWA","River                -315","STREAM OR RIVER",1,6035,"15",1
+"10049","MAHBUBNAGAR","tank 6-415","TANK",1,2006,"15",1
+"10050","MAHBUBNAGAR","tank 7-415","TANK",1,2007,"15",1
+"10099","MAHBUBNAGAR","check dam 1-415","CHECK DAM",1,4046,"15",1
+"10100","MAHBUBNAGAR","check dam 2-415","CHECK DAM",1,4047,"15",1
+"10137","MALKANGIRI","spring1-515","SPRING",1,5005,"15",1
+"10138","MALKANGIRI","spring2-515","SPRING",1,5006,"15",1
+"10139","MALKANGIRI","spring3-515","SPRING",1,5007,"15",1
+"10371","BANKURA","Pond 1  715","POND",1,1082,"15",1
+"10372","BANKURA","Pond 2  715","POND",1,1083,"15",1
+"10373","BANKURA","Pond 3  715","POND",1,1084,"15",1
+"10374","BANKURA","Pond 4  715","POND",1,1085,"15",1
+"10375","BANKURA","Pond 5  715","POND",1,1086,"15",1
+"10450","KACHCHH","pond 1-116","POND",1,1025,"16",1
+"10451","KACHCHH","pond2-116","POND",1,1026,"16",1
+"10563","DEVAS","Tank(216)","TANK",1,2004,"16",1
+"10702","KHANDWA","River                -315","STREAM OR RIVER",1,6035,"16",1
+"10703","KHANDWA"," Stream                      1-316","STREAM OR RIVER",1,6036,"16",1
+"10704","KHANDWA","Stream                                 2 -316","STREAM OR RIVER",1,6037,"16",1
+"10746","MAHBUBNAGAR","tank 8-416","TANK",1,2008,"16",1
+"10957","PALAMU","Ahar1-616","AHAR",1,3076,"16",1
+"11071","BANKURA","Pond 1  716","POND",1,1087,"16",1
+"11072","BANKURA","Pond 2  716","POND",1,1088,"16",1
+"11073","BANKURA","Pond 3  716","POND",1,1089,"16",1
+"11074","BANKURA","Pond 4  716","POND",1,1090,"16",1
+"11075","BANKURA","Pond 5  716","POND",1,1091,"16",1
+"11076","BANKURA","Pond 6  716","POND",1,1092,"16",1
+"11077","BANKURA","Pond 7  716","POND",1,1093,"16",1
+"11109","BANKURA","Check Dam 1  716","CHECK DAM",1,4004,"16",1
+"11147","KACHCHH","pond 1-117","POND",1,1027,"17",1
+"11174","KACHCHH","checkdam1-117","CHECK DAM",1,4023,"17",1
+"11175","KACHCHH","checkdam2-117","CHECK DAM",1,4024,"17",1
+"11321","DEVAS","River (217)","STREAM OR RIVER",1,6021,"17",1
+"11419","KHANDWA","Stream                                1-317","STREAM OR RIVER",1,6057,"17",1
+"11420","KHANDWA","Stream                                2-317","STREAM OR RIVER",1,6058,"17",1
+"11421","KHANDWA","Stream                                3-317","STREAM OR RIVER",1,6059,"17",1
+"11422","KHANDWA","Stream                                4-317","STREAM OR RIVER",1,6060,"17",1
+"11433","MAHBUBNAGAR","pond 9-417","POND",1,1009,"17",1
+"11491","MAHBUBNAGAR","check dam 1-417","CHECK DAM",1,4048,"17",1
+"11492","MAHBUBNAGAR","check dam 2-417","CHECK DAM",1,4049,"17",1
+"11493","MAHBUBNAGAR","check dam 3-417","CHECK DAM",1,4050,"17",1
+"11515","MALKANGIRI"," pond1-517","POND",1,1017,"17",1
+"11575","PALAMU","Pond1-617","POND",1,1029,"17",1
+"11653","PALAMU","Ahar 1-617","AHAR",1,3077,"17",1
+"11654","PALAMU","Ahar 2-617","AHAR",1,3078,"17",1
+"11655","PALAMU","Ahar 3-617","AHAR",1,3079,"17",1
+"11656","PALAMU","Ahar 4-617","AHAR",1,3080,"17",1
+"11657","PALAMU","Ahar 5-617","AHAR",1,3081,"17",1
+"11658","PALAMU","Ahar 6-617","AHAR",1,3082,"17",1
+"11659","PALAMU","Ahar7-617","AHAR",1,3083,"17",1
+"11660","PALAMU","Ahar 8-617","AHAR",1,3084,"17",1
+"11661","PALAMU","Ahar 9-617","AHAR",1,3085,"17",1
+"11662","PALAMU","Ahar 10-617","AHAR",1,3086,"17",1
+"11773","BANKURA","Pond 1  717","POND",1,1094,"17",1
+"11774","BANKURA","Pond 2  717","POND",1,1095,"17",1
+"11775","BANKURA","Pond 3  717","POND",1,1096,"17",1
+"11776","BANKURA","Pond 4  717","POND",1,1097,"17",1
+"11777","BANKURA","Pond 5  717","POND",1,1098,"17",1
+"11778","BANKURA","Pond 6  717","POND",1,1099,"17",1
+"11779","BANKURA","Pond 7  717","POND",1,1100,"17",1
+"11780","BANKURA","Pond 8  717","POND",1,1101,"17",1
+"11843","KACHCHH","pond 1-118","POND",1,1028,"18",1
+"11844","KACHCHH","pond2-118","POND",1,1029,"18",1
+"11871","KACHCHH","checkdam1-118","CHECK DAM",1,4025,"18",1
+"11993","DEVAS","Check Dam1(218)","CHECK DAM",1,4040,"18",1
+"12017","DEVAS","River1(218)","STREAM OR RIVER",1,6022,"18",1
+"12042","KHANDWA","Chak dam                         1 -318","TANK",1,2014,"18",1
+"12043","KHANDWA","Chak dam                         2 -318","TANK",1,2015,"18",1
+"12082","KHANDWA","Stream                                 1 -318","STREAM OR RIVER",1,6025,"18",1
+"12083","KHANDWA","Stream                                 2 -318","STREAM OR RIVER",1,6026,"18",1
+"12137","MAHBUBNAGAR","tank 9-418","TANK",1,2009,"18",1
+"12189","MAHBUBNAGAR","check dam 1 -418","CHECK DAM",1,4051,"18",1
+"12190","MAHBUBNAGAR","check dam 2-418","CHECK DAM",1,4052,"18",1
+"12476","BANKURA","Pond 1  718","POND",1,1102,"18",1
+"12477","BANKURA","Pond 2  718","POND",1,1103,"18",1
+"12478","BANKURA","Pond 3  718","POND",1,1104,"18",1
+"12479","BANKURA","Pond 4  718","POND",1,1105,"18",1
+"12480","BANKURA","Pond 5  718","POND",1,1106,"18",1
+"12481","BANKURA","Pond 6  718","POND",1,1107,"18",1
+"12505","BANKURA","River 1  718","STREAM OR RIVER",1,6006,"18",1
+"12540","KACHCHH","pond 1-119","POND",1,1030,"19",1
+"12541","KACHCHH","pond2-119","POND",1,1031,"19",1
+"12567","KACHCHH","checkdam1-119","CHECK DAM",1,4026,"19",1
+"12568","KACHCHH","checkdam2-119","CHECK DAM",1,4027,"19",1
+"12713","DEVAS","River2(219)","STREAM OR RIVER",1,6023,"19",1
+"12714","DEVAS","River3(219)","STREAM OR RIVER",1,6024,"19",1
+"12722","KHANDWA"," Pond 1      -319                 ","POND",1,1001,"19",1
+"12744","KHANDWA","Check Dam                     1-319","TANK",1,2021,"19",1
+"12745","KHANDWA","Check Dam                     2-319","TANK",1,2022,"19",1
+"12790","KHANDWA","Stream                       1-319","STREAM OR RIVER",1,6038,"19",1
+"12791","KHANDWA"," Stream                 2-319","STREAM OR RIVER",1,6039,"19",1
+"12833","MAHBUBNAGAR","tank 10-419","TANK",1,2010,"19",1
+"12906","MALKANGIRI","pond1-519","POND",1,1018,"19",1
+"12928","MALKANGIRI","river-519","STREAM OR RIVER",1,6009,"19",1
+"13053","PALAMU","Ahar 1-619","AHAR",1,3087,"19",1
+"13054","PALAMU","Ahar 2-619","AHAR",1,3088,"19",1
+"13061","PALAMU","Chack dam 1-619","CHECK DAM",1,4003,"19",1
+"13177","BANKURA","Pond 1  719","POND",1,1108,"19",1
+"13178","BANKURA","pond 2  719","POND",1,1109,"19",1
+"13179","BANKURA","pond 3  719","POND",1,1110,"19",1
+"13180","BANKURA","pond 4  719","POND",1,1111,"19",1
+"13220","KACHCHH","pond 1-120","POND",1,1015,"20",1
+"13221","KACHCHH","pond2-120","POND",1,1016,"20",1
+"13336","DEVAS","Pond1(220)","POND",1,1066,"20",1
+"13337","DEVAS","Pond2(220)","POND",1,1067,"20",1
+"13338","DEVAS","Pond3(220)","POND",1,1068,"20",1
+"13339","DEVAS","Pond4(220)","POND",1,1069,"20",1
+"13384","DEVAS","Chek dam1(220)","CHECK DAM",1,4041,"20",1
+"13385","DEVAS","Chek dam2(220)","CHECK DAM",1,4042,"20",1
+"13410","DEVAS","River(220)","STREAM OR RIVER",1,6025,"20",1
+"13446","KHANDWA","Check Dam                     1-320","TANK",1,2028,"20",1
+"13447","KHANDWA","Check Dam                     2-320","TANK",1,2029,"20",1
+"13508","KHANDWA","Stream                              1-320","STREAM OR RIVER",1,6061,"20",1
+"13509","KHANDWA","Stream                              2-320","STREAM OR RIVER",1,6062,"20",1
+"13581","MAHBUBNAGAR","check dam 1-420","CHECK DAM",1,4053,"20",1
+"13624","MALKANGIRI","river-520","STREAM OR RIVER",1,6010,"20",1
+"13661","PALAMU","Pond 1-620","POND",1,1030,"20",1
+"13750","PALAMU","Ahar 1-620","AHAR",1,3089,"20",1
+"13751","PALAMU","Ahar 2-620","AHAR",1,3090,"20",1
+"13752","PALAMU","Ahar 3-620","AHAR",1,3091,"20",1
+"13753","PALAMU","Ahar4-620","AHAR",1,3092,"20",1
+"13758","PALAMU","Check dam 1-620","CHECK DAM",1,4005,"20",1
+"13876","BANKURA","Pond 1   720","POND",1,1112,"20",1
+"13877","BANKURA","Pond 2   720","POND",1,1113,"20",1
+"13878","BANKURA","Pond 3   720","POND",1,1114,"20",1
+"13879","BANKURA","Pond 4   720","POND",1,1115,"20",1
+"13880","BANKURA","Pond 5   720","POND",1,1116,"20",1
+"13881","BANKURA","Pond 6   720","POND",1,1117,"20",1
+"13882","BANKURA","Pond 7   720","POND",1,1118,"20",1
+"13883","BANKURA","Pond 8   720","POND",1,1119,"20",1
+"13884","BANKURA","Pond 9   720","POND",1,1120,"20",1
+"13885","BANKURA","Pond 10   720","POND",1,1121,"20",1
